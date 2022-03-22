@@ -4,7 +4,8 @@ This sample project demonstrates the basic structure required to connect an HTML
 
 The <a href="https://datatables.net/">jQuery DataTables</a> plug-in is used to enhance the table and populate its contents with fake data from an <a href="https://jsonplaceholder.typicode.com/">online REST API</a>.  As a result, the HTML table becomes responsive, interactive, and linked to the server.
 
-The step-by-step walkthrough can be found here: 
+The step-by-step walkthrough can be found here: <br>
+https://levelup.gitconnected.com/create-interactive-html-tables-populated-with-api-data-dd5c467b0851
 <br>
 
 And to run it locally: <br>
